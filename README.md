@@ -12,7 +12,7 @@ A WordPress plugin that allows you to export individual or multiple posts as HTM
 
 ## Installation
 
-1. Download the plugin ZIP file from the [latest release](https://github.com/vyceerulezu/export-posts-to-html/releases).
+1. Download the plugin ZIP file from the [latest release](https://github.com/VyceeRulezU/ScriptBaker/blob/main/scriptbaker.php).
 2. Log in to your WordPress admin panel.
 3. Navigate to **Plugins > Add New**.
 4. Click on **Upload Plugin**.
