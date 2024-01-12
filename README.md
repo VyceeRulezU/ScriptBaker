@@ -45,7 +45,7 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 
 ## License
 
-This project is licensed under the [Vycee-License](LICENSE).
+This project is licensed under the [Vycee-License](Vycee License).
 
 ## Author
 
